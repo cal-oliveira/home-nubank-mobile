@@ -8,6 +8,7 @@ Interface home do app mobile Nubank baseado no projeto conceito 2021(community)
 
 ![App Screenshot](https://raw.githubusercontent.com/cal-oliveira/home-nubank-mobile/master/screenshots/screenshot-1.png)
 
+![App Screenshot](https://raw.githubusercontent.com/cal-oliveira/home-nubank-mobile/master/screenshots/screenshot-2.png)
 
 ## Referência
 
