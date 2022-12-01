@@ -12,7 +12,7 @@ Interface home do app mobile Nubank baseado no projeto conceito 2021(community)
 
 ## Referência
 
- - [Nubank - Conceito 2021-- Link Figma](https://www.figma.com/community/file/1008542325037585291)
+ - [Nubank - Conceito 2021 -- Link Figma](https://www.figma.com/community/file/1008542325037585291)
 
 
 ## Tecnologias utilizadas
